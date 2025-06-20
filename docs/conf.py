@@ -8,8 +8,8 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']   
-
+html_favicon = '_static/gps.png'
 html_js_files = [
     'chatbot.js',
 ]
-html_favicon = '_static/gps.png'
+
